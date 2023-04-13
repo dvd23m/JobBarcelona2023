@@ -131,5 +131,12 @@ El reto pedía una métrica f1-macro como evaluación de los resultados. Tras ap
 
 Dados los resultados, el modelo que mejor f1Score obtiene y sin que aparezca overfitting ha sido Random Forest tras aplicar SMOTE  
 
+## Complicaciones y mejoras futuras  
+Durante el proceso de creación de los modelos, destacaría la dificultad para parametrizar los modelos y no obtener sobreajuste. Tal y como se ha podido ver en la tabla de resultados, la mayoría de ellos presentan este problema. Como mejoras futuras se pueden estudiar más a fondo la parametrización de cada modelo y trabajarlo más a fondo, además de realizar otras transformaciones a los datos que puedan, junto con lo anterior, aportar mejores resultados evitando el sobreajuste de los datos.  
+
+También sería importante agregar un EDA bien completo para que quienes visitan este proyecto entienda cada una de las variables que componen el dataset y las decisiones que puedan tomarse sobre los mismos datos. 
+
 ## Sobre el autor
-David Molina, estudiante de Ciencia de Datos
+David Molina, estudiante de Ciencia de Datos  
+Se aceptan todo tipo de sugerencias que me permitan mejorar en futuros proyectos.  
+Comparto mi linkedin: https://www.linkedin.com/in/david-molina-pulgarin-298253101
